@@ -1,0 +1,19 @@
+.left-nav-item{
+    height: 100%; 
+    width: 80px;
+    color: white;
+    float: left;
+    position: absolute;
+    top: 73px;
+}
+a{
+color: white;
+}
+a:hover{
+    background-color: grey;
+    cursor: pointer;
+}
+a.active{
+    background-color: grey;
+    cursor: hand
+}
