@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TaskEditorApi/TaskEditorApi/bin/Debug/netcoreapp2.2
+/TaskEditorApi/TaskEditorApi.Tests/obj/Debug/netcoreapp2.2
+/TaskEditorApi/TaskEditorCore.Tests/obj/Debug/netcoreapp2.2
